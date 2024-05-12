@@ -1,0 +1,1 @@
+<p><h3><strong>Q2.Personal Message:</strong></h3> Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, <q>Hello Eric, would you like to learn some Python today?</q></p>

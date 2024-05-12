@@ -1,0 +1,1 @@
+<p><h3><strong>Q4.Famous Quote:</strong></h3> Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:<br><strong>Albert Einstein once said,</strong><q>A person who never made a mistake never tried anything new.<q></p>
